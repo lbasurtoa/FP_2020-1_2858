@@ -3,7 +3,7 @@
 
 int main( argc, char *argv[]) {
 
-	int x = atof(argv[0]);
+	int x = atoi(argv[0]);
 	double y = atof(argv[1]);
 	double z;
 
