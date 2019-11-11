@@ -10,7 +10,6 @@ int main (int argc, char *argv[]) {
 	if(n%2==0) {
 		printf("1\n");
 	}
-
 	else {
 		printf("0\n");
 	}
@@ -18,6 +17,3 @@ int main (int argc, char *argv[]) {
 
 	return 0;
 }
-
-./main
-
